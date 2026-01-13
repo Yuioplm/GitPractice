@@ -1,2 +1,2 @@
 ﻿Write-Output "Hello Git"
-Write-Output $null.abcWrite-Output "GitHubにpushします"
+Write-Output $null.abc
